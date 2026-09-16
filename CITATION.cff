@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use PhysAI-Bench, please cite the paper."
+title: "PhysAI-Bench: A Benchmark for LLM-Based Agentic Decision-Making in Autonomous UAV-Centric Physical AI"
+type: software
+authors:
+  - family-names: Ferrag
+    given-names: Mohamed Amine
+    email: mohamed.ferrag@uaeu.ac.ae
+  - family-names: Debbah
+    given-names: Merouane
+  - family-names: Lakas
+    given-names: Abderrahmane
+  - family-names: Perumkunnil
+    given-names: Manu
+  - family-names: Tihanyi
+    given-names: Norbert
+version: 0.1.0
+date-released: 2026-09-16
+keywords:
+  - Physical AI
+  - agentic decision-making
+  - large language models
+  - autonomous UAV systems
+  - 6G networks
+preferred-citation:
+  type: article
+  title: "PhysAI-Bench: A Benchmark for LLM-Based Agentic Decision-Making in Autonomous UAV-Centric Physical AI"
+  authors:
+    - family-names: Ferrag
+      given-names: Mohamed Amine
+    - family-names: Debbah
+      given-names: Merouane
+    - family-names: Lakas
+      given-names: Abderrahmane
+    - family-names: Perumkunnil
+      given-names: Manu
+    - family-names: Tihanyi
+      given-names: Norbert
+  year: 2026
+
